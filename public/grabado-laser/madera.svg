@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#13131a"/>
+  <rect x="80" y="120" width="640" height="360" rx="24" fill="#1c1c26" stroke="#f59e0b" stroke-width="3"/>
+  <path d="M200 380 L320 220 L440 300 L560 180" stroke="#f59e0b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="500" text-anchor="middle" fill="#f59e0b" font-family="Arial,sans-serif" font-size="42" font-weight="bold">MADERA</text>
+  <text x="400" y="90" text-anchor="middle" fill="#8888a0" font-family="Arial,sans-serif" font-size="28">GRABADO LÁSER</text>
+</svg>

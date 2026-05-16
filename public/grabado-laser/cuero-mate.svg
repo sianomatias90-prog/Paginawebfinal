@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#13131a"/>
+  <ellipse cx="400" cy="300" rx="220" ry="160" fill="#2a2218" stroke="#f59e0b" stroke-width="3"/>
+  <path d="M280 300 Q400 200 520 300 Q400 400 280 300Z" fill="#3d3020" stroke="#f59e0b" stroke-width="2"/>
+  <text x="400" y="500" text-anchor="middle" fill="#f59e0b" font-family="Arial,sans-serif" font-size="38" font-weight="bold">CUERO / MATE</text>
+  <text x="400" y="90" text-anchor="middle" fill="#8888a0" font-family="Arial,sans-serif" font-size="28">GRABADO LÁSER</text>
+</svg>
